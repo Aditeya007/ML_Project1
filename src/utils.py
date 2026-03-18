@@ -1,0 +1,1 @@
+#funcs to be used in entire app 
